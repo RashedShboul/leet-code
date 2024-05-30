@@ -1,0 +1,6 @@
+-Follow a design pattern (MVC for webapps)
+-use professional UI (people are visual buyers)
+-use bootstrap templetes to save time, do not wast time building css/html from scratch
+-use databases
+-employ security 
+-solve business problem 

@@ -1,0 +1,5 @@
+- learn DP
+- build a weather app (to learn about APIs)
+- learn JSON files
+- exponential backoff
+- learn github 
